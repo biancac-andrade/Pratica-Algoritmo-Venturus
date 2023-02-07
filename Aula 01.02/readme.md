@@ -1,4 +1,8 @@
-Pratica
+# Trilha Algoritmo - Estrutura condicional
+
+## Aula no dia 01/02/2023
+
+### Exercicios
 
 1. Crie um algoritmo que lê um dado número e decida se ele é par ou ímpar.
    Imprima o resultado
@@ -76,7 +80,7 @@ Pratica
    Regra:
    IMC = Massa/Altura
 
-## Desafio
+### Desafio
 
 1. Faça um programa que lê 4 valores I, A, B e C onde I é um número inteiro e
    positivo e A, B, e C são quaisquer valores reais. O programa deve escrever os
