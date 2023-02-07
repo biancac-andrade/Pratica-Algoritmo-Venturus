@@ -1,6 +1,6 @@
-# Pratica-Algoritmo-Venturus
+# Trilha Algoritmo - Introdução a lógica e algoritmo
 
-## 30/01/2023
+## Aula no dia 31/01/2023
 
 - Exercícios de práticas para treinar logica e algoritmo com portugol e virtualg do curso de Java da Venturus
 
