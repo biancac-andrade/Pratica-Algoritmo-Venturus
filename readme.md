@@ -2,4 +2,4 @@
 
  #### As atividades e desafios será adicionada em pasta de cada dia da aula mencionada de cada tema mencionada. 
 
-### As aula foram iniciada no dia 30 de Janeiro de 2023 
+### As aula foram iniciada no dia 30 de Janeiro de 2023 e encerrada em 15 de Abril 2023
